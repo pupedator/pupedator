@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
-<h3 align="center">I am a second-year electronic and computer engineering student at Zhejiang University, passionate about exploring the realms of coding, machine learning, and building robust applications.</h3>
+<h3 align="center">I am a second-year Electronic and Computer engineering student at Zhejiang University, passionate about exploring the realms of coding, machine learning, and building robust applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pupedator&label=Profile%20views&color=0e75b6&style=flat" alt="pupedator" /> </p>
 
