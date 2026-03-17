@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Kamal%20Mahmud&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20%26%20Computer%20Engineering%20%40%20Zhejiang%20University&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6e40c9&amp;height=200&amp;section=header&amp;text=Kamal%20Mahmud&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Electronic%20%26%20Computer%20Engineering%20%40%20Zhejiang%20University&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full-Stack+Developer;Algorithmic+Trader;Always+learning+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A960FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Machine+Learning+Engineer;Full-Stack+Developer;Algorithmic+Trader;Always+learning+something+new...)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pupedator&label=Profile+Views&color=6e40c9&style=flat-square" alt="profile views"/>
-  <a href="https://linkedin.com/in/kamal-mahmud-060429294"><img src="https://img.shields.io/badge/LinkedIn-Kamal%20Mahmud-0077B5?style=flat-square&logo=linkedin" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=pupedator&amp;label=Profile+Views&amp;color=6e40c9&amp;style=flat-square" alt="profile views"/>
+&nbsp;
+<a href="https://linkedin.com/in/kamal-mahmud-060429294">
+  <img src="https://img.shields.io/badge/LinkedIn-Kamal%20Mahmud-0077B5?style=flat-square&amp;logo=linkedin" />
+</a>
 
 </div>
 
@@ -17,10 +18,10 @@
 
 ```python
 class Kamal:
-    university  = "Zhejiang University"
-    degree      = "Electronic & Computer Engineering — Year 2"
-    interests   = ["Machine Learning", "Algorithmic Trading", "Full-Stack Dev"]
-    currently   = "Building AI-powered trading systems"
+    university   = "Zhejiang University"
+    degree       = "Electronic & Computer Engineering — Year 2"
+    interests    = ["Machine Learning", "Algorithmic Trading", "Full-Stack Dev"]
+    currently    = "Building AI-powered trading systems"
     ask_me_about = ["Python", "ML/DL", "Quant Finance", "System Design"]
 ```
 
@@ -31,7 +32,7 @@ class Kamal:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,20 +60,16 @@ class Kamal:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pupedator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pupedator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pupedator&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pupedator&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pupedator&amp;theme=tokyonight&amp;hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pupedator&theme=tokyonight&hide_border=true" />
+<br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pupedator&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pupedator&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%"/>
 
 </div>
 
@@ -80,6 +77,6 @@ class Kamal:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6e40c9&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
