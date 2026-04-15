@@ -67,8 +67,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pupedator&theme=tokyonight&hide_border=true" />
 
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pupedator/pupedator/output/snake-dark.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/pupedator/pupedator/output/snake.svg">
 </picture>
+
+</div>
