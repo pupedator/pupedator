@@ -5,7 +5,7 @@
 **Electronic & Computer Engineering @ Zhejiang University**  
 *Passionate about machine learning, robust applications, and pushing the limits of what I can build.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmudkamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmudkamal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmudkamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalmahmud)
 [![Profile Views](https://komarev.com/ghpvc/?username=pupedator&style=for-the-badge&color=0e75b6)](https://github.com/pupedator)
 
 </div>
@@ -17,7 +17,7 @@
 - 🎓 Second-year **ECE student** at Zhejiang University
 - 💡 Exploring **machine learning**, **computer vision**, and **full-stack development**
 - 🛠️ Building things with Python, React, Java, and more
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/mahmudkamal)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/kamalmahmud)
 
 ---
 
